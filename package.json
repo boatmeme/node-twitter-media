@@ -1,0 +1,39 @@
+{
+  "name": "twitter-media",
+  "preferGlobal": "false",
+  "version": "0.0.1",
+  "author": "Jonathan Griggs <jonathan.griggs@gmail.com>",
+  "description": "A Javascript library that enriches Twitter's Status JSON with useful Media URLs - thumbnails / full / embed",
+  "contributors": [ 
+    {
+      "name": "Jonathan Griggs",
+      "email": "jonathan.griggs@gmail.com"
+    } 
+  ],
+  "scripts": {
+      
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/boatmeme/node-twitter-media.git"
+  },
+  "keywords": [
+    "twitter",
+    "media",
+    "url",
+    "image",
+    "video"
+  ],
+  "dependencies" : {
+      
+  },
+  "devDependencies": {
+    "vows"    :  "0.6.x"
+  },
+  "bundleDependencies": [
+  ],
+  "license": "MIT",
+  "engine": {
+    "node": ">=0.4"
+  }
+}
